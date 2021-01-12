@@ -1,0 +1,24 @@
+{
+  "todos": [
+    {
+      "id": 1,
+      "title": "Buy products",
+      "completed": false
+    },
+    {
+      "id": 2,
+      "title": "Do something",
+      "completed": true
+    },
+    {
+      "id": 3,
+      "title": "Drink some beer",
+      "completed": false
+    },
+    {
+      "id": 1610445613057,
+      "title": "Clean the snow",
+      "completed": true
+    }
+  ]
+}
