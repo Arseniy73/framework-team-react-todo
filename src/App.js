@@ -1,9 +1,9 @@
-import "./index.css";
-
 import Card from "@material-ui/core/Card";
 import AddForm from "./components/AddForm";
 import TodoList from "./components/TodoList";
+
 import ContextProvider from "./components/context/ContextProvider";
+import "./index.css";
 
 function App() {
   return (
